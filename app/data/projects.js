@@ -4,7 +4,7 @@ const data = [
     title: 'IBM Watson Bot',
     subtitle: 'A question answering bot',
     link: 'https://github.com/pratikbhd/IIR-Watson',
-    image: '/images/projects/ibmbot.jpeg',
+    image: '/website/images/projects/ibmbot.jpeg',
     date: '2019-05',
     desc: 'Built for my Text Retrieval and Web Search course. '
       + 'The application uses Wikipedia pages as the text source ' 
@@ -14,7 +14,7 @@ const data = [
     title: 'Log File System',
     subtitle: 'An implementation of the log structured file system using C++',
     link: 'https://github.com/pratikbhd/lfs',
-    image: '/images/projects/lfs.png',
+    image: '/website/images/projects/lfs.png',
     date: '2019-05',
     desc: 'Launched a potato battery powered weather balloon with two cameras '
       + 'and gps transponder. Resulting photos were published in a coffee table book. '
@@ -23,7 +23,7 @@ const data = [
     title: 'BikeShare Visualization',
     subtitle: 'Visualization of the Metro BikeShare system in LA for 2015-2016',
     link: 'https://github.com/pratikbhd/bikeshare_visualization',
-    image: '/images/projects/bikeshare.png',
+    image: '/website/images/projects/bikeshare.png',
     date: '2018-12',
     desc: 'An interative visualization of the Metro Bikeshare system in Los Angeles. '
       + 'The bikeshare data is from the 2015-2016 period. The visualization was developed using D3 '
@@ -33,7 +33,7 @@ const data = [
     title: 'ParkMandu',
     subtitle: 'Prototype of a parking management application',
     link: 'https://github.com/pratikbhd/parkmandu',
-    image: '/images/projects/parkmandu.png',
+    image: '/website/images/projects/parkmandu.png',
     date: '2016-06',
     desc: 'Developed a prototpye of a Parking Management system (using OpenCV) which detects open and closed '
      + 'parking spaces in a parking lot. This information is relayed to a web based application '
@@ -43,7 +43,7 @@ const data = [
     title: 'Swarm Bazed Maze Solver',
     subtitle: 'Implementation of swarm intelligence to solve a maze',
     link: 'https://github.com/pratikbhd/swarm_intelligence_based_maze_solver',
-    image: '/images/projects/swarmbot.png',
+    image: '/website/images/projects/swarmbot.png',
     date: '2016-06',
     desc: 'As part of the final year project in my undergraduate degree, our team developed '
      + 'an implementation of two autonomous vehicles which used swarm technology to communicate with '
