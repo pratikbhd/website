@@ -39,7 +39,7 @@ const positions = [
     link: 'https://www.cotiviti.com/',
     daterange: 'June 2016 - August 2016',
     points: [
-      'Enhanced and improved the course project \'Swarm Intelligence Based Maze Solver\' in collaboration with trained professionals from the industry. Please check the \'Projects\
+      'Enhanced and improved the course project \'Swarm Intelligence Based Maze Solver\' in collaboration with trained professionals from the industry. Please check the \'Projects\'
        section for more details.',
     ],
   },
