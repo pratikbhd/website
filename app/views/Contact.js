@@ -92,6 +92,7 @@ const Contact = () => {
           <a href="mailto:pratik.bhd@gmail.com">pratik.bhd@gmail.com</a>
           </div>          
         </div>
+        <p> The template for this website is used from <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
         <ul className="icons">
           {data.map(s => (
             <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
