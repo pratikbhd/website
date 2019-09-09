@@ -19,7 +19,6 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> The template for this website is used from <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
     </article>
   </Main>
 );
