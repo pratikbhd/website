@@ -44,7 +44,7 @@ As a Research Assistant working as part of a cross-departmental project, I have 
 
 - I definitely plan on taking the above number to double digits.
 
-- I love traveling, especially trekking and hiking. There's a different sense of fulfillment in traveling to lesser know places.
+- I love traveling, especially trekking and hiking. There's a different sense of fulfillment in traveling to lesser known places.
 
 #### Goals
 - Giving back to the community in any way I can.
