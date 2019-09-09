@@ -6,10 +6,10 @@ const positions = [
     link: 'https://grad.arizona.edu/catalog/programinfo/COSCMS',
     daterange: 'August 2018 - Present',
     points: [
-      'Reasoning about end-to-end information flow in software systems that may contain dynamically modified code. Specifically dealt with various fuzzers for JIT compilers along with dynamic detection of race conditions on such compilers.',
+      'Reasoning about end-to-end information flow in software systems that may contain dynamically modified code. Specifically worked with various fuzzers for JIT compilers along with dynamic detection of race conditions on such compilers.',
+      'Currently, looking at how WebAssembly (wasm) can be used to develop noble crypojacking mechanisms.',
       'Built a tool in Python focusing around program analysis and representation for the automatic conversion of FORTRAN code to Python code.',
       'Integrated above toolkit into Delphi, a framework for assembling, exporting and executing executable DBN models built for the DARPA World Modelers Program.',
-      'Currently, looking at how web assembly (wasm) can be used to obfuscate malicious code on web applications.',
     ],
   }, {
     company: 'LogPoint',
