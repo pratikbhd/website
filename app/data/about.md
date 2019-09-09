@@ -40,13 +40,13 @@ As a Research Assistant working as part of a cross-departmental project, I have 
 
 - I am from Kathmandu, Nepal but have lived in Kolkata, India for \~4 years when I was a kid.
 
-- I've been to 4 countries, 5 if a two-hour transit tour to South Korea also counts.
+- I've been to 5 countries so far.
 
 - I definitely plan on taking the above number to double digits.
 
 - I love traveling, especially trekking and hiking. There's a different sense of fulfillment in traveling to lesser know places.
 
 #### Goals
-- Giving back to the community in any way I can (cliché, right?)
-- Being inspired by everyday things
-- Find a meeting point between my career and my dream of working for the society in a tangible manner
+- Giving back to the community in any way I can.
+- Being inspired by everyday things.
+- Find a meeting point between my career and my dream of working for the society in a tangible manner.

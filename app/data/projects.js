@@ -1,6 +1,20 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Delphi',
+    subtitle: 'A Python library (3.6+) for assembling causal, dynamic, probabilistic models from information extracted from text and software',
+    link: 'https://github.com/ml4ai/delphi',
+    image: '/website/images/projects/delphi.png',
+    date: '2019-09',
+    desc: 'Modeling complex phenomena such as food insecurity requires reasoning over multiple '
+      + 'levels of abstraction and fully utilizing expert knowledge about multiple disparate ' 
+      + 'domains, ranging from the environmental to the sociopolitical. '
+      + 'Delphi is a Python library (3.6+) for assembling causal, dynamic, probabilistic models '
+      + 'from information extracted from two sources: Text (utilizes causal relations extracted '
+      + 'using machine reading from text sources such as UN agency reports, news articles, and technical papers) '
+      + 'and Software (incorporates functionality to extract abstracted representations of '
+      + 'scientific models from code that implements them, and convert these into probabilistic models.',
+  }, {
     title: 'IBM Watson Bot',
     subtitle: 'A question answering bot',
     link: 'https://github.com/pratikbhd/IIR-Watson',
