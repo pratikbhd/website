@@ -2,17 +2,22 @@ const courses = [
   {
     title: 'Design and Analysis of Algorithms',
     number: 'CSC 545',
-    // link: 'http://kobus.ca/teaching/cs477/fall16/CSC-477-577-syllabus.pdf',
+    link: 'https://www2.cs.arizona.edu/classes/cs545/fall19/',
     univerity: 'The University of Arizona',
   }, {
     title: 'Neural Networks',
-    number: 'CSC 557',
+    number: 'INFO 557',
     link: 'https://ischool.arizona.edu/course/info-557-neural-networks',
     univerity: 'The University of Arizona',
   }, {
-    title: 'Machine Learning Theory',
-    number: 'CSC 665',
-    // link: 'https://ischool.arizona.edu/course/info-557-neural-networks',
+    title: 'Machine Learning',
+    number: 'INFO 521',
+    link: 'http://w3.sista.arizona.edu/~clayton/courses/ml/index.html',
+    univerity: 'The University of Arizona',
+  }, {
+    title: 'Probabilistic Graphical Models',
+    number: 'CSC 535',
+    link: 'http://kobus.ca/teaching/cs535/spring18/index.html',
     univerity: 'The University of Arizona',
   }, {
     title: 'Computer Vision',

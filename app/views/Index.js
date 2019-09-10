@@ -18,6 +18,7 @@ const Index = () => (
         <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <p> You can get a PDF version of my resume <a href="https:\/\/github.com\/pratikbhd\/website\/raw\/master\/app\/data\/PratikBhandari_Resume.pdf">here</a>.</p>
     </article>
   </Main>
 );
