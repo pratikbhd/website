@@ -180,6 +180,11 @@ export const skills = [
     category: ['Tools'],
   },
   {
+    title: 'SVN',
+    compentency: 3,
+    category: ['Tools'],
+  },  
+  {
     title: 'KiCAD',
     compentency: 4,
     category: ['Tools'],
@@ -214,6 +219,11 @@ export const skills = [
     compentency: 3,
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
+  {
+    title: 'SciPy',
+    compentency: 3,
+    category: ['Data Science', 'Machine Learning', 'Python'],
+  },
   // {
   //   title: 'Caffe',
   //   compentency: 4,
@@ -222,6 +232,11 @@ export const skills = [
   {
     title: 'Tensorflow',
     compentency: 2,
+    category: ['Data Science', 'Machine Learning', 'Python'],
+  },
+  {
+    title: 'Keras',
+    compentency: 3,
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
   {

@@ -30,16 +30,16 @@ const data = [
     link: 'https://github.com/pratikbhd/lfs',
     image: '/website/images/projects/lfs.png',
     date: '2019-05',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    desc: 'Implemented a log structured file system that is mounted on a flash device and uses the FUSE '
+      + 'user level file system interface to intercept file system calls to the mount point in the linux '
+      + 'kernel to the mounted flash device.',
   }, {
     title: 'BikeShare Visualization',
     subtitle: 'Visualization of the Metro BikeShare system in LA for 2015-2016',
     link: 'https://github.com/pratikbhd/bikeshare_visualization',
     image: '/website/images/projects/bikeshare.png',
     date: '2018-12',
-    desc: 'An interative visualization of the Metro Bikeshare system in Los Angeles. '
+    desc: 'An interactive visualization of the Metro Bikeshare system in Los Angeles. '
       + 'The bikeshare data is from the 2015-2016 period. The visualization was developed using D3 '
       + 'where users can zoom in and out through the city, hover each area for details and filter '
       + 'through various months within the time periods.',
@@ -49,7 +49,7 @@ const data = [
     link: 'https://github.com/pratikbhd/parkmandu',
     image: '/website/images/projects/parkmandu.png',
     date: '2016-06',
-    desc: 'Developed a prototpye of a Parking Management system (using OpenCV) which detects open and closed '
+    desc: 'Developed a prototype of a Parking Management system (using OpenCV) which detects open and closed '
      + 'parking spaces in a parking lot. This information is relayed to a web based application '
      + 'which a user can access to view and/or book available parking spaces. This project was '
      + 'considered for implementation in the capital, Kathmandu by the municipality on August 2019.'
